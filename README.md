@@ -1,0 +1,2 @@
+# tetris_react_native
+AIネイティブ開発を体験するプロンプト
